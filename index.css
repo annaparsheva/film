@@ -1,0 +1,42 @@
+.header{
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+padding: 10px 5px;
+z-index: 100;
+background: peru; 
+display:flex;
+justify-content: flex-start;
+align-items: center;
+}
+.menu-nav-elements{
+list-style: none ;
+display: inline-block;
+}
+  
+div.menu{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner{
+margin-top: 80px
+}
+.section-banner
+  background:url(images/banner-bg-jpg);
+ background-size:cover ;
+
+}
+
+.banner-header
+text-aligm:center ;
+
+}
+
+
+
+
+
